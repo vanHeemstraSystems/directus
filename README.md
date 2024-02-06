@@ -5,6 +5,8 @@ Based on "Directus Official Website" at https://directus.io
 
 Based on "Directus on Github" at https://github.com/directus/directus
 
+Based on "Getting Started with Directus" at https://youtu.be/viURaw3oiBA
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
