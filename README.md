@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+directus
+# Directus
 
-Based on "ABC" at https://www.abc.com/
+Based on "Directus Official Website" at https://directus.io
+
+Based on "Directus on Github" at https://github.com/directus/directus
 
 ## 100 - Introduction
 
