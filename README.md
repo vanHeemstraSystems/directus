@@ -3,6 +3,8 @@ directus
 
 Based on "Directus Official Website" at https://directus.io
 
+Based on "Directus Docs" at https://docs.directus.io
+
 Based on "Directus on Github" at https://github.com/directus/directus
 
 Based on "Getting Started with Directus" at https://youtu.be/viURaw3oiBA
